@@ -1,4 +1,4 @@
-description = "Tiny base image (Ubuntu Jammy Jellyfish build image, distroless-like run image) with no buildpacks included. To use, specify buildpacks at build time."
+description = "Tinsy base image (Ubuntu Jammy Jellyfish build image, distroless-like run image) with no buildpacks included. To use, specify buildpacks at build time."
 
 [lifecycle]
   version = "0.20.14"
